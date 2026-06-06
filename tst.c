@@ -1,7 +1,8 @@
 //código teste horus
 
 
-// Bibliotecas para o GPS NEO-6M 
+// Bibliotecas para o GPS NEO-6M
+#include <SoftwareSerial.h>  
 #include <TinyGPS.h>
 
 // Bibliotecas para a MPU6050
